@@ -1,1 +1,4 @@
-document.log("Hellow world")
+document.write("Hellow world！")
+var aa="王曉明"
+var bb="可憐單身狗"
+document.write(aa+bb)
